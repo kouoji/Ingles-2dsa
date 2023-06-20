@@ -1,0 +1,14 @@
+body{
+
+    background-image: linear-gradient(90deg, #ffae00 0%, #ffae00 50%, #ffa600 90%);
+}
+.powerredBY{
+    text-align: right;
+
+}
+#imagem{
+    margin-left: 24%;
+    width: 540px;
+    height: 350px;
+    border-radius: 45px;
+}
